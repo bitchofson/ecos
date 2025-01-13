@@ -1,6 +1,6 @@
 [submodule "ecos-mobile"]
 	path = ecos-mobile
-	url = https://github.com/bitchofson/ecos-mobile
+	url = https://github.com/yend0/ecos-mobile
 [submodule "ecos-backend"]
 	path = ecos-backend
-	url = https://github.com/bitchofson/ecos-backend
+	url = https://github.com/yend0/ecos-backend
